@@ -33,4 +33,4 @@ Unlike standard "out-of-the-box" templates, this dashboard uses a **custom-desig
 3. Open the `.pbix` file in `/Dashboard` to interact with the visuals.
 
 ---
-**Developed by Sufiyan Sayyad**  | Data Analyst | Pwer Bi | SQL | Figma | Excel |
+**Developed by Sufiyan Sayyad**  | Data Analyst | Power Bi | SQL | Figma | Excel |
